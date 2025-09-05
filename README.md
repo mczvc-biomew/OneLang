@@ -12,12 +12,16 @@
 - [Bayanihan Learning](#bayanihan-learning-and-college) — One Language, One Learning, *at a time*.
 
 ## Partners in Business
+
 ### `Jobert.RJ` `Globert` and `Gemm Corrales`
 * `DAD’s Gym`
 * ...
 
+### `Yumika GT`
+# `mczvc` `yumika-gt`
+
 ### `Johnella Kyle San Juan`
-* `mczvc` `jksj`
+* *Salaam* `jksj`
 
 ## Licensing, Patent, Permission
 [Licensee](./LICENSE)
@@ -134,7 +138,7 @@ to David your father.
 # Subsidiaries under Egg Co.
 ## **Egg Co.**, `Meldencio Czarlemagne`
 ### `CEO` and `Founder`
-- ### [CV] > ([:docx](./mczvc/CV%20(1-10-2024_1245).docx)) | ([:pdf](./mczvc/CV_PDF_1-10-23_1300.pdf))
+- ### [CV] > ([:word online:](https://1drv.ms/w/c/bade6e26ac4b1c18/EcWdi70TcQtHkZiTmlu3_PsBVY-_wFy86ZhSlqz0B_0p6g?e=skj1bv).) ([:docx](./mczvc/CV%20(1-10-2024_1245).docx)) | ([:pdf](./mczvc/CV_PDF_1-10-23_1300.pdf))
 - ### [Resume]
 <img src='./mczvc/Screenshot_20240110-123236.png' width='720px' alt="mczvc Resume"/>
 
