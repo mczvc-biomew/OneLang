@@ -138,9 +138,10 @@ to David your father.
 # Subsidiaries under Egg Co.
 ## **Egg Co.**, `Meldencio Czarlemagne`
 ### `CEO` and `Founder`
-- ### [CV] > ([:word online:](https://1drv.ms/w/c/bade6e26ac4b1c18/EcWdi70TcQtHkZiTmlu3_PsBVY-_wFy86ZhSlqz0B_0p6g?e=skj1bv).) ([:docx](./mczvc/CV%20(1-10-2024_1245).docx)) | ([:pdf](./mczvc/CV_PDF_1-10-23_1300.pdf))
+- ### [CV] > ([:word online](https://1drv.ms/w/c/bade6e26ac4b1c18/EcWdi70TcQtHkZiTmlu3_PsBVY-_wFy86ZhSlqz0B_0p6g?e=skj1bv).) ([:docx](./mczvc/CV%20(1-10-2024_1245).docx)) | ([:pdf](./mczvc/Meldencio%20Czarlemagne%20Corrales%20-%20Resume.pdf))
 - ### [Resume]
-<img src='./mczvc/Screenshot_20240110-123236.png' width='720px' alt="mczvc Resume"/>
+<img src='./mczvc/Screenshot_20250906_020117_top.png' width='720px' alt="mczvc Resume page-1"/>
+<img src='./mczvc/Screenshot_20250906_020303_bottom.png' width='720px' alt="mczvc Resume page-2"/>
 
 ### HQs: 4-CAs
 - 2 in the `Philippines`,
@@ -773,7 +774,7 @@ let Us all unite for one Cause
 [Florida]: https://www.floridabar.org/about/section/profile/?num=117571
 
 [CV]: https://mczvc-biomew.github.com
-[Resume]: https://mczvc-biomew.github.com
+[Resume]: https://mczvc-biomew.github.com/mczvc
 
 [New English Translation]: https://bible.com/bible/107/gen.27.40.NET
 
