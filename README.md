@@ -773,8 +773,8 @@ let Us all unite for one Cause
 
 [Florida]: https://www.floridabar.org/about/section/profile/?num=117571
 
-[CV]: https://mczvc-biomew.github.com
-[Resume]: https://mczvc-biomew.github.com/mczvc
+[CV]: https://mczvc-biomew.github.io
+[Resume]: https://mczvc-biomew.github.io/mczvc
 
 [New English Translation]: https://bible.com/bible/107/gen.27.40.NET
 
