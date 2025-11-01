@@ -138,7 +138,7 @@ to David your father.
 # Subsidiaries under Egg Co.
 ## **Egg Co.**, `Meldencio Czarlemagne`
 ### `CEO` and `Founder`
-- ### [CV] > ([:word online](https://1drv.ms/w/c/bade6e26ac4b1c18/EcWdi70TcQtHkZiTmlu3_PsBVY-_wFy86ZhSlqz0B_0p6g?e=skj1bv).) ([:docx](./mczvc/CV%20(1-10-2024_1245).docx)) | ([:pdf](./mczvc/мсзвс-ws-resume.pdf))
+- ### [CV] > ([:word online](https://1drv.ms/w/c/bade6e26ac4b1c18/EcWdi70TcQtHkZiTmlu3_PsBVY-_wFy86ZhSlqz0B_0p6g?e=skj1bv).) ([:docx](./mczvc/mczvc-web-services-resume.docx)) | ([:pdf](./mczvc/мсзвс-ws-resume.pdf))
 
 - ### [Resume]
 <img src="./mczvc/Screeshot_Nov-1-2025_Resume.png" width="720px" alt="mczvc Resume"/>
