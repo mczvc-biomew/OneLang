@@ -142,8 +142,6 @@ to David your father.
 
 - ### [Resume]
 <img src="./mczvc/Screeshot_Nov-1-2025_Resume.png" width="720px" alt="mczvc Resume"/>
-<img src='./mczvc/Screenshot_20250906_020117_top.png' width='720px' alt="mczvc Resume page-1"/>
-<img src='./mczvc/Screenshot_20250906_020303_bottom.png' width='720px' alt="mczvc Resume page-2"/>
 
 ### HQs: 4-CAs
 - 2 in the `Philippines`,
