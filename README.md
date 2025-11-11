@@ -149,12 +149,21 @@ to David your father.
 - 1 in `Canada`
 
 ## `Vanguard™` `Consortium` — `Phi` `Chi` `Alpha` — `Epsilon` `Sigma`, **Pico-Veras-Corrales**
-_Vanguard_ leads a `Bayanihan Learning`, a partner and **Forever Dear** for every **Eranian**s.
+_Vanguard_ leads a `Bayanihan Learning`; 
+
+— a partner, a mentor, and a **Forever Dear** companion for every **Eranian** in the pursuit of wisdom, service, and faith.
 
 - **Vanguard** is a _western_ term for **Angel** (Fem. `Angelou`, Masc. `Angelo`).
-- A full-arm or a mastery of professionalism, a ready professionals, 
-  - probably an `Allied Health Professional`, 
-  - aimed and tenured with secured practices, to educate, and/or mobilize, and eventually liberate the people of education, to be prepared to serve the **Almighty God**, an endeavored professionals, united in serving **Him** faithfully and wholeheartedly.
+- a collective of ready, skilled, and steadfast professionals —
+  - many drawn from the `Allied Health` and related disciplines —
+  - whose mission is to educate, mobilize, and liberate minds through service and learning.
+  - and eventually liberate the people, to be prepared to serve the **Almighty God**
+  - an endeavored professionals, united in serving **Him** faithfully and wholeheartedly.
+Tenured in purpose and secured in practice,
+committed to forming a society of professionals who are:
+* Grounded in knowledge,
+* Guided by faith, and
+* United in service to the Almighty God.
 
 ## `Vanguard` — `Sigma` `Epsilon`, `Sigma` `Alpha`
 - Is a **Software Engineers** and **Software Architects** that is also a `CBI` or [`Christian Brotherhood International`](https://iglesianicristo.net/edification/)
