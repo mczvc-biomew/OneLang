@@ -672,10 +672,12 @@ still humiliating—Us, as it is—to not have *these kinds* a social life!
 
 ###  Introducing `Network.Careers`
 
-`We are now here to empower you`! — You `matter`ed, *anyways*.
+`We are now here to empower you`! — You `matter`, *anyways*.
 
 With our Institute and partners, you do now have the power of the **True Royal Degree** to **communicate** and **network** 
-with the `Royal Professionals`—to work professionally or *endlessly*, thus **earning also endlessly** with (`someone you can trust`), or by a `Smart Move`™; 
+with the `Royal Professionals`.
+Here, you can **work professionally or creatively**, earning according to your value-based rate, guided by purpose and excellence.
+— to work professionally or *endlessly*, thus **earning also endlessly** with (`someone you can trust`), or by a `Smart Move`™; 
 **do it** and **earn it** your—kind of Profession(s)
 - by doing One Work or One Project at a time, but now—emphasize your `value-based rate` **and** `work with passion`!
 - thus **saving you your effort** and *probably* **your time**, **your value**, 
@@ -690,15 +692,43 @@ It's time to **learn, apply, and lead** *courageously* and *victoriously*, or **
 - **with Us**—because We had predefined our **Every Smart Environment**℠, 
 - and **with You**—with an **honor of excellency** on `every aspect of your career!`
 
+### 💡 Work Redefined
+
+* Focus on **one project or one task at a time**, but emphasize your **true value** and work **with passion**.
+* Save **time and effort**, preserve and upskill your **God-given gifts**, and elevate your **skills and acquired values**.
+* Work under our **Smart Settings℠** — redefined contracts for **work, business, and education** — designed to make your life better and meaningful.
+
+Engage **Smartly℠** with our **Smart Contract for the People™**, naturally **By Design™**.
+
+With Network Careers, you are not only working smart —
+you are engaging smartly, leading courageously, and collaborating victoriously.
+
 We had *also* **revolutionized** the **Management Aspect** of *Every Known Career*(s), not just for managing, but it's for the **growth and development** of _**every** team_ and its **members**.
 *You can now work* **freely**, with your predefined **dignity** and **honor**, to showcase your **new values**, **comfortably** and *with easiness*!
 Now, that's an **integrity**.
 
+### 🚀 Empowering Careers, Empowering People
+
+* We have revolutionized management for every known career:
+* Not only to manage tasks, but to **grow and develop teams and individuals**.
+* Work **freely and honorably**, showcasing your values and skills with integrity and ease.
+* Expand your horizons — **horizontally and vertically** — leveraging your natural talents and practiced skills to seize the **best opportunities**.
+---
 *By now*, you have **already expanded** your horizon, *horizontally and vertically*, with **your natural talents**, or, by practicing and exercising it,
 **you are now prepared** for every **best opportunities** we had **prepared for you**;
 you: to **Do It**, and We: **to provide** it, because with us—you are **simply the best**.
 
 Leading your new way to the paved industries since the last `Industrial Revolution` aka *“The Intelligence Revolution”*.
+
+🌍 A New Era of Work
+
+* We are **leading the way beyond the Industrial Revolution** — into the **Intelligence Revolution.**
+* Forget what holds you back — with **God as your guide**, you can achieve the extraordinary.
+* Make your passions reality, provide for your family and community, and **never waver from your dreams**.
+
+✡️ We are simply the best — all for the glory of Almighty God.
+“Now to the King eternal, immortal, invisible, the only God, be honor and glory forever and ever!” — 1 Timothy 1:17 (NLT)
+
 `Forget everything that hinders you`:
 because we had an **Awesome God**—you can **rely on**, which was the **Almighty One**, 
 **Who guides us**——to *every deal of technologies*—we can say, done by *subversive* *men*! 
